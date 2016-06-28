@@ -1,3 +1,3 @@
-# JerseyWithSpringBoot
+# Projects
 
-This is a project to practice and demonstrate technologies.
+This repository is for practicing and demonstrating technologies.
